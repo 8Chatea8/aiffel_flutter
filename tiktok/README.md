@@ -1,16 +1,19 @@
-# tiktok
+# AIFFEL Campus Online 4th Code Peer Review Templete
+- 코더 : 차정은
+- 리뷰어 : 김태원
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# PRT(PeerReviewTemplate)
+각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
+- [ ] 1.코드가 정상적으로 동작하고 주어진 문제를 해결했나요?
+- [ ] 2.주석을 보고 작성자의 코드가 이해되었나요?
+  > 위 항목에 대한 근거 작성 필수
+- [ ] 3.코드가 에러를 유발할 가능성이 있나요?
+  > 위 항목에 대한 근거 작성 필수
+- [ ] 4.코드 작성자가 코드를 제대로 이해하고 작성했나요?
+  > 위 항목에 대한 근거 작성 필수
+- [ ] 5.코드가 간결한가요?
+  > 위 항목에 대한 근거 작성 필수
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+오류 내역 함께 리뷰하였습니다.
